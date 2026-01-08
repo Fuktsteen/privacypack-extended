@@ -1,4 +1,18 @@
-# PrivacyPack.org
+## Changes made
+- **Search:** removed Kagi
+- **Browsers:** removed Vanadium, Cromite, Floorp, Trivalent, Waterfox, Ironfox, DuckDuckGo
+- **Notes:** added Appflowy
+- **Drive:** added Filebrowser, Copyparty
+- **AI:** removed Kagi
+- **Maps:** removed Kagi; added OpenStreetMap
+- **DNS:** moved Cloudflare to private alternatives; added Technitium DNS
+- **OS:** added ChromeOS
+- **Entertainment:** added Not Stealing
+- **Office suite:** added Office 365, Google Docs; LibreOffice, OnlyOffice
+- **Music:** added Spotify, YouTube Music, Apple Music, Amazon Music; Funkwhale, Tidal, Deezer
+
+
+# PrivacyPack.org Extended
 
 Pick the mainstream apps you used before, show the privacy-respecting tools you’ve switched to, and share your privacy wins!
 
