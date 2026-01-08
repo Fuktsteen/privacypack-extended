@@ -1,6 +1,6 @@
 ## Changes made
 - **Search:** removed Kagi
-- **Browsers:** removed Vanadium, Cromite, Floorp, Trivalent, Waterfox, Ironfox, DuckDuckGo
+- **Browsers:** removed Vanadium, Cromite, Floorp, Trivalent, Waterfox, Ironfox, DuckDuckGo; added Fennec
 - **Notes:** added Appflowy
 - **Drive:** added Filebrowser, Copyparty
 - **AI:** removed Kagi
