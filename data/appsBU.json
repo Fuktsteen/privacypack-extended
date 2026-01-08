@@ -49,6 +49,7 @@
                 { "id": "bing", "name": "Bing" }
             ],
             "private_alternatives": [
+                { "id": "kagi", "name": "Kagi" },
                 { "id": "brave_search", "name": "Brave Search" },
                 { "id": "duckduckgo", "name": "DuckDuckGo" },
                 { "id": "startpage", "name": "Startpage" },
@@ -68,13 +69,20 @@
             ],
             "private_alternatives": [
                 { "id": "zen_browser", "name": "Zen Browser" },
+                { "id": "vanadium", "name": "Vanadium" },
                 { "id": "brave", "name": "Brave" },
+                { "id": "cromite", "name": "Cromite" },
                 { "id": "firefox", "name": "Firefox" },
+                { "id": "floorp", "name": "Floorp" },
                 { "id": "tor", "name": "Tor" },
+                { "id": "trivalent", "name": "Trivalent" },
                 { "id": "vivaldi", "name": "Vivaldi" },
                 { "id": "librewolf", "name": "LibreWolf" },
                 { "id": "mullvad_browser", "name": "Mullvad Browser" },
-                { "id": "orion", "name": "Orion" }
+                { "id": "orion", "name": "Orion" },
+                { "id": "waterfox", "name": "Waterfox" },
+                { "id": "ironfox", "name": "IronFox" },
+                { "id": "duckduckgo", "name": "DuckDuckGo Browser" }
             ]
         },
         {
@@ -118,8 +126,7 @@
                 { "id": "nextcloud_notes", "name": "Nextcloud Notes" },
                 { "id": "qownnotes", "name": "QOwnNotes" },
                 { "id": "fileverse", "name": "DDocs.new" },
-                { "id": "joplin", "name": "Joplin" },
-                { "id": "appflowy", "name": "Appflowy" }
+                { "id": "joplin", "name": "Joplin" }
             ]
         },
         {
@@ -140,9 +147,7 @@
                 { "id": "jottacloud", "name": "Jottacloud" },
                 { "id": "cryptomator", "name": "Cryptomator" },
                 { "id": "pcloud", "name": "pCloud" },
-                { "id": "syncthing", "name": "Syncthing" },
-                { "id": "filebrowser", "name": "Filebrowser" },
-                { "id": "copyparty", "name": "Copyparty" }
+                { "id": "syncthing", "name": "Syncthing" }
             ]
         },
         {
@@ -259,7 +264,8 @@
                 { "id": "lumo", "name": "Lumo" },
                 { "id": "ppq", "name": "PayPerQ" },
                 { "id": "routstr", "name": "Routstr" },
-                { "id": "duckai", "name": "Duck.ai" }
+                { "id": "duckai", "name": "Duck.ai" },
+                { "id": "kagi_assistant", "name": "Kagi Assistant" }
             ]
         },
         {
@@ -289,9 +295,9 @@
             "private_alternatives": [
                 { "id": "comaps", "name": "CoMaps" },
                 { "id": "organic_maps", "name": "Organic Maps" },
+                { "id": "kagi", "name": "Kagi Maps" },
                 { "id": "magic_earth", "name": "Magic Earth" },
-                { "id": "osmand", "name": "OsmAnd" },
-                { "id": "openstreetmap", "name": "OpenStreetMap" }
+                { "id": "osmand", "name": "OsmAnd" }
             ]
         },
         {
@@ -306,7 +312,8 @@
                 { "id": "libretranslate", "name": "LibreTranslate" },
                 { "id": "translatelocally", "name": "TranslateLocally" },
                 { "id": "apertium", "name": "Apertium" },
-                { "id": "mozilla_translate", "name": "Mozilla Translate" }
+                { "id": "mozilla_translate", "name": "Mozilla Translate" },
+                { "id": "kagi_translate", "name": "Kagi Translate" }
             ]
         },
         {
@@ -327,17 +334,16 @@
             "order": 18,
             "mainstream_apps": [
                 { "id": "isp_dns", "name": "ISP DNS" },
-                { "id": "google_search", "name": "Google DNS" }
+                { "id": "google_search", "name": "Google DNS" },
+                { "id": "cloudflare", "name": "Cloudflare DNS" }
             ],
             "private_alternatives": [
-                { "id": "cloudflare", "name": "Cloudflare DNS" },
                 { "id": "controld", "name": "ControlD DNS" },
                 { "id": "nextdns", "name": "NextDNS" },
                 { "id": "adguard", "name": "AdGuard DNS" },
                 { "id": "quad9", "name": "Quad9 DNS" },
                 { "id": "mullvad_dns", "name": "Mullvad DNS" },
-				{ "id": "opennic", "name": "OpenNIC" },
-                { "id": "technitium", "name": "Technitium DNS" }
+				{ "id": "opennic", "name": "OpenNIC" }
             ]
         },
         {
@@ -345,8 +351,7 @@
             "order": 19,
             "mainstream_apps": [
                 { "id": "windows", "name": "Windows" },
-                { "id": "macos", "name": "macOS" },
-                { "id": "chrome", "name": "ChromeOS" }
+                { "id": "macos", "name": "macOS" }
             ],
             "private_alternatives": [
                 { "id": "arch_linux", "name": "Arch Linux" },
@@ -360,7 +365,7 @@
                 { "id": "openmandriva", "name": "OpenMandriva" },
                 { "id": "nixos", "name": "NixOS" },
                 { "id": "tiger_os", "name": "Tiger OS" },
-				{ "id": "opensuse", "name": "OpenSUSE" }
+				        { "id": "opensuse", "name": "OpenSUSE" }
             ]
         },
         {
@@ -376,12 +381,12 @@
                 { "id": "lineage_os", "name": "LineageOS" }
             ]
         },
-            {
+                {
             "name": "Entertainment",
             "order": 21,
             "mainstream_apps": [
-                { "id": "netflix", "name": "Netflix" },
                 { "id": "plex", "name": "Plex" },
+                { "id": "netflix", "name": "Netflix" },
 				{ "id": "hulu", "name": "Hulu" },
 				{ "id": "hbo_max", "name": "HBO Max" },
 				{ "id": "prime_video", "name": "Prime Video" },
@@ -389,10 +394,10 @@
 				{ "id": "disney_plus", "name": "Disney+" }
             ],
             "private_alternatives": [
-                { "id": "jellyfin", "name": "Jellyfin" },
-                { "id": "redacted", "name": "Not Stealing" }
+                { "id": "jellyfin", "name": "Jellyfin" }
             ]
-        },
+        }
+        ,
         {
             "name": "API Testing",
             "order": 22,
@@ -402,33 +407,6 @@
             "private_alternatives": [
                 { "id": "bruno", "name": "Bruno" },
                 { "id": "hoppscotch", "name": "Hoppscotch" }
-            ]
-        },
-        {
-            "name": "Office suite",
-            "order": 23,
-            "mainstream_apps": [
-                { "id": "office365", "name": "Office 365" },
-                { "id": "googledocs", "name": "Google Docs" }
-            ],
-            "private_alternatives": [
-                { "id": "libreoffice", "name": "LibreOffice" },
-                { "id": "onlyoffice", "name": "OnlyOffice" }
-            ]
-        },
-        {
-            "name": "Music",
-            "order": 24,
-            "mainstream_apps": [
-                { "id": "spotify", "name": "Spotify" },
-                { "id": "youtubemusic", "name": "Youtube Music" },
-                { "id": "applemusic", "name": "Apple Music" },
-                { "id": "amazonmusic", "name": "Amazon Music" }
-            ],
-            "private_alternatives": [
-                { "id": "funkwhale", "name": "Funkwhale" },
-                { "id": "tidal", "name": "Tidal" },
-                { "id": "deezer", "name": "Deezer" }
             ]
         }
     ]
