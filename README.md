@@ -8,8 +8,8 @@
 - **DNS:** moved Cloudflare to private alternatives; added Technitium DNS
 - **OS:** added ChromeOS
 - **Entertainment:** added Not Stealing
-- **Office suite:** added Office 365, Google Docs; LibreOffice, OnlyOffice
-- **Music:** added Spotify, YouTube Music, Apple Music, Amazon Music; Funkwhale, Tidal, Deezer
+- **Added Office suite:** added Office 365, Google Docs; LibreOffice, OnlyOffice
+- **Added Music:** added Spotify, YouTube Music, Apple Music, Amazon Music; Funkwhale, Tidal, Deezer
 
 
 # PrivacyPack.org Extended
