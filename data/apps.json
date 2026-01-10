@@ -320,7 +320,8 @@
             ],
             "private_alternatives": [
                 { "id": "matrix", "name": "Matrix" },
-                { "id": "zulip", "name": "Zulip" }
+                { "id": "zulip", "name": "Zulip" },
+                { "id": "teamspeak", "name": "TeamSpeak"}
             ]
         },
         {
@@ -410,7 +411,8 @@
             "order": 23,
             "mainstream_apps": [
                 { "id": "office365", "name": "Office 365" },
-                { "id": "googledocs", "name": "Google Docs" }
+                { "id": "googledocs", "name": "Google Docs" },
+                { "id": "wps", "name": "WPS" }
             ],
             "private_alternatives": [
                 { "id": "libreoffice", "name": "LibreOffice" },
@@ -429,7 +431,9 @@
             "private_alternatives": [
                 { "id": "funkwhale", "name": "Funkwhale" },
                 { "id": "tidal", "name": "Tidal" },
-                { "id": "deezer", "name": "Deezer" }
+                { "id": "deezer", "name": "Deezer" },
+                { "id": "navidrome", "name": "Navidrome" },
+                { "id": "qobuz", "name": "Qobuz" }
             ]
         }
     ]

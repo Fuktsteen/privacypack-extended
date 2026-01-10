@@ -5,11 +5,12 @@
 - **Drive:** added Filebrowser, Copyparty
 - **AI:** removed Kagi
 - **Maps:** removed Kagi; added OpenStreetMap
+- **Community:** added TeamSpeak
 - **DNS:** moved Cloudflare to private alternatives; added Technitium DNS
 - **OS:** added ChromeOS
 - **Entertainment:** added Not Stealing
-- **Added Office suite:** added Office 365, Google Docs; LibreOffice, OnlyOffice
-- **Added Music:** added Spotify, YouTube Music, Apple Music, Amazon Music; Funkwhale, Tidal, Deezer
+- **Added Office suite:** added Office 365, Google Docs, WPS; LibreOffice, OnlyOffice
+- **Added Music:** added Spotify, YouTube Music, Apple Music, Amazon Music; Funkwhale, Tidal, Deezer, Navidrome, Qobuz
 
 
 # PrivacyPack.org Extended
