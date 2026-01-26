@@ -120,7 +120,8 @@
                 { "id": "qownnotes", "name": "QOwnNotes" },
                 { "id": "fileverse", "name": "DDocs.new" },
                 { "id": "joplin", "name": "Joplin" },
-                { "id": "appflowy", "name": "Appflowy" }
+                { "id": "appflowy", "name": "Appflowy" },
+                { "id": "affine", "name": "AFFiNE" }
             ]
         },
         {
@@ -433,6 +434,7 @@
                 { "id": "tidal", "name": "Tidal" },
                 { "id": "deezer", "name": "Deezer" },
                 { "id": "navidrome", "name": "Navidrome" },
+                { "id": "jellyfin", "name": "Jellyfin" },
                 { "id": "qobuz", "name": "Qobuz" }
             ]
         }

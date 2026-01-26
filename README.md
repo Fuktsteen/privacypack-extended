@@ -1,7 +1,7 @@
 ## Changes made
 - **Search:** removed Kagi
 - **Browsers:** removed Vanadium, Cromite, Floorp, Trivalent, Waterfox, Ironfox, DuckDuckGo; added Fennec
-- **Notes:** added Appflowy
+- **Notes:** added Appflowy, AFFiNE
 - **Drive:** added Filebrowser, Copyparty
 - **AI:** removed Kagi
 - **Maps:** removed Kagi; added OpenStreetMap
@@ -10,7 +10,7 @@
 - **OS:** added ChromeOS
 - **Entertainment:** added Not Stealing
 - **Added Office suite:** added Office 365, Google Docs, WPS; LibreOffice, OnlyOffice
-- **Added Music:** added Spotify, YouTube Music, Apple Music, Amazon Music; Funkwhale, Tidal, Deezer, Navidrome, Qobuz
+- **Added Music:** added Spotify, YouTube Music, Apple Music, Amazon Music; Funkwhale, Tidal, Deezer, Navidrome, Qobuz, Jellyfin
 
 
 # PrivacyPack.org Extended
