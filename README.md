@@ -3,11 +3,13 @@
 - **Browsers:** removed Vanadium, Cromite, Floorp, Trivalent, Waterfox, Ironfox, DuckDuckGo; added Fennec
 - **Notes:** added Appflowy, AFFiNE
 - **Drive:** added Filebrowser, Copyparty
+- **VPN:** added Adguard VPN
 - **AI:** removed Kagi
 - **Maps:** removed Kagi; added OpenStreetMap
 - **Community:** added TeamSpeak
 - **DNS:** moved Cloudflare to private alternatives; added Technitium DNS
 - **OS:** added ChromeOS
+- **Phone OS:** added /e/OS
 - **Entertainment:** added Not Stealing
 - **Added Office suite:** added Office 365, Google Docs, WPS; LibreOffice, OnlyOffice
 - **Added Music:** added Spotify, YouTube Music, Apple Music, Amazon Music; Funkwhale, Tidal, Deezer, Navidrome, Qobuz, Jellyfin
