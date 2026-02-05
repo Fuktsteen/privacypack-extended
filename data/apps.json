@@ -394,8 +394,7 @@
 				{ "id": "disney_plus", "name": "Disney+" }
             ],
             "private_alternatives": [
-                { "id": "jellyfin", "name": "Jellyfin" },
-                { "id": "redacted", "name": "Not Stealing" }
+                { "id": "jellyfin", "name": "Jellyfin" }
             ]
         },
         {
@@ -438,6 +437,20 @@
                 { "id": "navidrome", "name": "Navidrome" },
                 { "id": "jellyfin", "name": "Jellyfin" },
                 { "id": "qobuz", "name": "Qobuz" }
+            ]
+        },
+        {
+            "name": "PKM",
+            "order": 25,
+            "mainstream_apps": [
+                { "id": "notion", "name": "Notion" }
+            ],
+            "private_alternatives": [
+                { "id": "obsidian", "name": "Obsidian" },
+                { "id": "logseq", "name": "Logseq" },
+                { "id": "anytype", "name": "Anytype" },
+                { "id": "affine", "name": "AFFiNE" },
+                { "id": "appflowy", "name": "Appflowy" }
             ]
         }
     ]

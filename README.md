@@ -10,9 +10,9 @@
 - **DNS:** moved Cloudflare to private alternatives; added Technitium DNS
 - **OS:** added ChromeOS
 - **Phone OS:** added /e/OS
-- **Entertainment:** added Not Stealing
 - **Added Office suite:** added Office 365, Google Docs, WPS; LibreOffice, OnlyOffice
 - **Added Music:** added Spotify, YouTube Music, Apple Music, Amazon Music; Funkwhale, Tidal, Deezer, Navidrome, Qobuz, Jellyfin
+- **Added PKM**
 
 
 # PrivacyPack.org Extended
